@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.45.1">
+<file name="/Users/dawidstepien/Desktop/UNI/OOP/cwk2/src/test/java/Basic.java">
+<error line="14" column="15" severity="warning" message="Unused import - org.junit.jupiter.api.Assertions.assertArrayEquals." source="com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck"/>
+</file>
+</checkstyle>
